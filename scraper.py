@@ -50,12 +50,3 @@ for in_hashtag, out_file in corr_file.items():
             #file.write(f"{id_text}\t{text}\n")
 
 #end
-
-
-#tweets = obj.search_recent_tweets(query = "AusOpen")
-
-#for tweet in tweets:
-    #print (tweet)
-    #print ("\n")
-
-# end
