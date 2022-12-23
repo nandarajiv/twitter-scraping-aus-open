@@ -5,6 +5,7 @@
 - `README.md`
 - Python code `script.py` for scraping Twitter using Tweepy, via the API
 - Python code `frequency-analysis.py` for obtaining counts of words contained in the text of the tweets scraped
+- Report `Twitter Scraping.pdf`
 
 ## Note: <br/>
 Change the placeholder bearer token to your own account's bearer token. <br/>
